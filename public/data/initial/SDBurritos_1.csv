@@ -1,0 +1,386 @@
+Location,Burrito,Neighborhood,Address,URL,Yelp,Google,Chips,Cost,Hunger,Tortilla,Temp,Meat,Fillings,Meat:filling,Uniformity,Salsa,Synergy,Wrap,overall,Reviewer,Notes,Lat,Lng
+Donato's taco shop,California ,Miramar,6780 Miramar Rd,http://donatostacoshop.net/,3.5,4.2,,6.49,3,3,5,3,3.5,4,4,4,4,4,3.8,Scott,good fries: 4/5,32.8788572,-117.168936
+Oscar's Mexican food,California ,San Marcos,225 S Rancho Santa Fe Rd,http://www.yelp.com/biz/oscars-mexican-food-san-marcos,3.5,3.3,,5.45,3.5,2,3.5,2.5,2.5,2,4,3.5,2.5,5,3,Scott,Fries: 3/5; too little meat,33.1452281,-117.2003865
+Oscar's Mexican food,Carnitas,,,,,,,4.85,1.5,3,2,2.5,3,4.5,4,3,3,5,3,Emily,,33.1452281,-117.2003865
+Oscar's Mexican food,Carne asada,,,,,,,5.25,2,3,2,3.5,3,4,5,4,4,5,3.75,Ricardo,Go to average burrito place like Rigoberto's in la jolla; Terrible tamales,33.1452281,-117.2003865
+Pollos Maria,California,Carlsbad,3055 Harding St,http://pollosmaria.com/,4,3.8,x,6.59,4,4,5,4,3.5,4.5,5,2.5,4.5,4,4.2,Scott,,33.1612269,-117.3443176
+Pollos Maria,combo chicken,,,,,,,6.99,4,3,4,5,3.5,2.5,2.5,2.5,4,1,3.2,Emily,,33.1612269,-117.3443176
+Nico's Taco Shop,California,Carmel Valley,3860 Valley Centre Dr #404,http://www.yelp.com/biz/nicos-taco-shop-san-diego,3,2.9,,7.19,1.5,2,3,3,2,2.5,2.5,,2,3,2.6,Scott,not fries. big potatoes,32.939395,-117.231774
+Nico's Taco Shop,Carnitas,,,,,,,6.99,4,2.5,3,3,2.5,3,3.5,,2.5,3,3,Emily,,32.939395,-117.231774
+Los Primos Mexican Food,Monster California,UTC,7770 Regents Rd,http://www.primosmex.com/,3,3.7,x,9.25,3.5,2,4.5,4.5,3.5,1.5,3,3.5,4,2,3.9,Scott,this tasted really bad leftover. not included in rating,32.8628174,-117.2243624
+JV's Mexican Food,Carne Asada,Morena,1112 Morena Blvd,http://jvsmexfood.com/,4,4.1,,6.25,3.5,2.5,1.5,1.5,3,4.5,3,1.5,2,4.5,2,Scott,,32.7686218,-117.2003367
+JV's Mexican Food,Surf & Turf,,,,,,,9.5,2,2.5,2.5,2.75,2.5,2.5,2,0.5,3,3.5,2.5,Emily,Huge. Shrimp is good. Meat is normal,32.7686218,-117.2003367
+Tony's Fresh Mexican Food,Chile verde pork,Miramar,7122 Miramar Rd,https://www.yelp.com/biz/tonys-fresh-mexican-food-san-diego,3,4.1,x,6.95,2,3,4,4,3,4,4,1,2,1,3,Marc,,32.8799813,-117.1605508
+Tony's Fresh Mexican Food,California,,,,,,,6.25,3.5,3,3.5,3.5,4,2,3.5,1,4,4,3.9,Scott,,32.8799813,-117.1605508
+Tony's Fresh Mexican Food,battered fish ,,,,,,,6.99,3,3,1,1.5,2.5,4,4,3,4.5,5,2,Nicole,,32.8799813,-117.1605508
+Tony's Fresh Mexican Food,California,,,,,,,6.25,3,4,,2,2,4,4,,3,4,2.75,Cris,"to-go, no guac or sour cream, fries are a small and underdone",32.8799813,-117.1605508
+Taco Stand,California,La Jolla,621 Pearl St,http://letstaco.com/,4.5,4.4,,7.49,4,3,2.5,4,4,3.5,2.5,3.5,5,4.5,4.2,Emily,Horchata is very sweet,32.8393518,-117.2768191
+Taco Stand,Surf and turf ,,,,,,,8.49,2.5,4,4,4.5,4,5,4.5,3.5,4,2,4.1,Scott,,32.8393518,-117.2768191
+Graciela's Taco Shop,Adobada ,Bonita,5047 Central Ave,https://www.yelp.com/biz/gracielas-taco-shop-bonita-2,4,4.5,,5.99,3,4,4,3,3.5,4,4.5,4,4,4.5,4,Scott,Salsa verde spicy,32.7587723,-117.1080004
+Graciela's Taco Shop,Barbacoa,,,,,,,5.99,2,3.5,4,3.5,,4,,4,4,1.5,4,Emily,,32.7587723,-117.1080004
+Rigoberto's Taco Shop La Jolla,California,La Jolla,7345 La Jolla Blvd,https://www.yelp.com/biz/rigobertos-la-jolla-2,2.5,4,,6.4,4,3,4,2.75,3,4,2,2,,5,3,Leo,,32.8372328,-117.2780597
+Rigoberto's Taco Shop La Jolla,California,,,,,,,6.4,2.5,3.5,3,3,3,4,4,1.5,,4.5,3.5,Scott,,32.8372328,-117.2780597
+Lolita's taco shop,2 in 1,Kearny Mesa,7305 Clairemont Mesa Blvd,http://lolitasmexicanfood.com/,4,4.4,,8.75,3.5,1.5,2,3,3.5,4,1,3.5,4.5,4,4,Scott,Rolled tacos need more meat,32.8316432,-117.1605738
+Lolita's taco shop,Adobado,,,,,,,5.5,2.5,1.5,2.5,3.5,3,4,1.5,2.5,3.5,4.5,3.5,Emily,Adobado reminds me of Indian food because of some mystery spice,32.8316432,-117.1605738
+Taco Stand,California,,,,,,,7.49,2.5,4,3,4,4,4,4,4,4,3,4.6,Scott,,32.8316432,-117.1605738
+Taco Stand,California,,,,,,,7.49,2.5,3,2,4.5,4,4,3.5,3,4.5,4.5,4.5,Emily,,32.8316432,-117.1605738
+Lola's 7 Up Market & Deli,Shredded beef,Carlsbad,3292 Roosevelt St,https://www.yelp.com/biz/lolas-7-up-market-and-deli-carlsbad,4.5,4.9,,6,3.5,2.5,2.5,3,4,4,4,3,3.5,1.5,3.8,Emily,Food cooks fast but checking out is painfully slow,33.157106,-117.3449144
+Lola's 7 Up Market & Deli,Carne asada,,,,,,,7,3.5,2.5,3,3,4,2,2,3,3.5,3.5,3,Scott,Beans are surprisingly good,33.157106,-117.3449144
+Colima's Mexican Food,Hawaiian,North park,2302 University Ave,https://www.yelp.com/biz/colimas-mexican-food-san-diego,4,4.2,,6.29,3.5,3.5,5,4,4,3.5,4.5,3.5,3.5,4,4,Scott,,32.748619,-117.1398718
+Colima's Mexican Food,Bandido,,,,,,,6.49,4.5,3,5,4,4,5,4,2.5,4.5,4,4,Sage,,32.748619,-117.1398718
+Colima's Mexican Food,Bandido,,,,,,,6.49,4.5,3,4.5,3.5,3.5,3.5,3,3,3,4,3,Eli,Promising start but finished poorly,32.748619,-117.1398718
+Rigoberto's Taco Shop,Carne asada,Miramar,7094 Miramar Rd,https://www.yelp.com/biz/rigobertos-taco-shop-san-diego-2,4,4.4,,6.6,3.5,4,2,4,3.5,4.5,4,3.5,4,1,4.25,Ricardo,,32.8798199,-117.1616766
+Rigoberto's Taco Shop,Campeon,,,,,,,7.65,3.5,3,1.5,3,3,2.5,3,3.5,2.5,4,3.4,Scott,,32.8798199,-117.1616766
+Raul's Mexican food,Chile verde pork,Encinitas,490 S Coast Hwy 101,https://www.yelp.com/biz/rauls-shack-encinitas,4,4.2,,5,3.5,2,,2.5,2,2,2,2,2.5,,2,Emily,,33.0461712,-117.2941785
+Raul's Mexican food,carne asada,,,,,,,5,1,2,,1,1,0.5,1,1.5,1,4,1,Scott,burrito was mostly tortilla,33.0461712,-117.2941785
+El Zarape,California,University Heights,4642 Park Blvd,https://www.yelp.com/biz/el-zarape-san-diego,4,4.4,x,6.25,0.5,3,5,4,2.75,4,1.6,3.5,3.4,5,3.33333,Kelsey,,32.7618065,-117.1464549
+El Zarape,California chicken,,,,,,,6.25,3,3.5,5,2.5,2.5,4,2.7,3.5,3,5,2.5,Sage,,32.7618065,-117.1464549
+El Zarape,Azteca,,,,,,,6.25,3.75,3,5,5,4.5,4,4,1.5,3,5,3,Jake,,32.7618065,-117.1464549
+El Zarape,Lobster,,,,,,,9.5,3,3,3,4,3,3.5,4.5,3.5,3,3.5,3.2,Scott,quite small,32.7618065,-117.1464549
+El Indio,California,San Diego,3695 India St,http://elindiosandiego.com/,3.5,3.9,,7.84,4,4,4,3.5,4,4.5,4,3.5,3.5,4.5,4,Scott,,32.7423252,-117.180125
+Taco stand,Carne asada,,,,,,,7.89,1,3,3.5,4.5,4,5,5,4.5,3.5,5,4.2,Scott,,32.7423252,-117.180125
+Taco stand,Al pastor,,,,,,,6.99,4,4,3,3.5,3,4,5,3,3.5,5,3.5,Emily,Kind of dry ,32.7423252,-117.180125
+"Qdoba Mexican Grill, Seatac Airport",Custom,Seattle,Airport,,,,,9.5,5,3,3,3.5,3,4,1,3,2.5,5,3,Sage,,32.7338006,-117.1933038
+Cancun Mexican & Seafood,California,Encinitas,1766 N Coast Hwy,http://cancunmexicanandseafood.com/,4.5,4.1,x,6.99,4,4,4.5,4,3.5,4,2.5,2,4,4,4.2,Scott,A bit small,33.2092591,-117.3882149
+Cancun Mexican & Seafood,Machaca,,,,,,,5.99,3,4,3.5,3.5,4,3.5,3.5,2,3.5,0.5,3.9,Emily,So hot! Egg is surprisingly good,33.2092591,-117.3882149
+Vallarta express,Quesaburro,Clairemont,4277 Genesee Ave,http://www.vallartaexpress.com/menu/,3.5,4,,6.95,3.5,3,4,3.5,4,4,4,3.5,4.5,4.5,4.1,Scott,,32.8213737,-117.1826061
+Vallarta express,Philly ,,,,,,,6.95,4,3,4.5,4,3,3,2,4,2,4.5,3,Torben,Guac chips have lots of cheese,32.8213737,-117.1826061
+Vallarta express,Carne asada,,,,,,,6.5,3.5,3.75,5,3,3,4.5,4.5,3.5,3,4.5,3.25,Ricardo,,32.8213737,-117.1826061
+Vallarta express,Quesa,,,,,,,6.95,4.5,2,5,3.5,4,2.5,5,3.5,2.5,4,3.75,Alex,Heart-stopping amount of cheese. Second tortilla of cheese,32.8213737,-117.1826061
+Vallarta express,Surf and turf,,,,,,,7.65,3,2,4,3,3,4,2,4,2,3,3.5,Richard,Hot carrots,32.8213737,-117.1826061
+Vallarta express,Mahi,,,,,,,7.3,3,3,4.5,3.5,3,3,2,3.5,2.5,4.5,3.5,Tom,,32.8213737,-117.1826061
+Mikes Taco Club,California,Ocean Beach,5060 Newport Ave,http://www.mikestacoclub.com/menu/,4.5,4.9,,8.59,2.5,4,4.5,3.5,5,2.5,2,4,4.5,4,4.3,Scott,,32.7476247,-117.252021
+Mikes Taco Club,California,,,,,,,8.59,3.5,4.5,4.5,4,4.5,4,4,4,4.5,5,4.5,Brad,,32.7476247,-117.252021
+La Perla Cocina,Addiction,Pacific Beach,745 Emerald St,https://www.yelp.com/biz/la-perla-cocina-mexicana-san-diego,4.5,4.7,,7.99,3.5,4,4,2,3,1.5,3,2.5,1,3,2.5,Scott,Bland,32.7981316,-117.2563707
+La Perla Cocina,Oaxacalifornia,,,,,,,9.99,3,4,4.5,3.5,4,3,2,2.5,3.5,4,4,Emily,Fries are good,32.7981316,-117.2563707
+Porkyland ,Deborah's special,Carmel Valley,4645 Carmel Mountain Rd,http://goporkyland.com/,4,4.4,x,8.25,3.5,4,4.5,3.5,2.5,4.5,4.5,4,3.5,5,4,Scott,,32.9203273,-117.2140079
+Porkyland ,Chicken nopalito,,,,,,,7.95,2.5,2.5,2.5,4,3.5,3,2.5,3,3,5,3.3,Emily,,32.9203273,-117.2140079
+Porkyland ,Chicken nopalito,,,,,,,7.95,2,4,5,4,4,3,5,3,3,5,4,Tara,,32.9203273,-117.2140079
+Porkyland ,California,,,,,,,8.75,3,4,5,3,5,3,2,4,3,5,4,Andy,,32.9203273,-117.2140079
+Rigoberto's Taco Shop,California ,,,,,,,6.6,3,3,4.5,4,4.5,4,4.5,4.5,5,4.5,4.5,Scott,,32.9203273,-117.2140079
+Rigoberto's Taco Shop,Adobada,,,,,,,6.6,3,4,5,5,5,5,4,,4.5,5,4.5,Tara,,32.9203273,-117.2140079
+Rigoberto's Taco Shop,California,,,,,,,6.6,3,3,5,3.5,3,4.5,2.5,3,4,4,3.6,Scott,Too much enchilada sauce this time,32.9203273,-117.2140079
+Rigoberto's Taco Shop,Surf & Turf,,,,,,,7.45,3.5,3,5,3.5,2.5,3,2.5,3.75,3,4,3,Bankole,Would have enjoyed it more if wasn't rating; shrimp better than meat. Quality of the shrimp really improves the burrito. Well cooked and fresh. Shrimp could have had more flavor,32.9203273,-117.2140079
+Rudy's Taco Shop,Chicken,Solana Beach,524 Stevens Ave,http://www.rudystacoshop.com/,4,4.3,,6.6,3.5,3.5,3,4,4.5,3,1,3,4,0.5,2.8,Scott,"Salsa Fresca is good, way too small",32.9903956,-117.2605899
+Rudy's Taco Shop,Carnitas,,,,,,,6.6,3,3,2.5,3,4,2,1,3,3,5,3,Emily,,32.9903956,-117.2605899
+Taco stand,Carne asada,,,,,,,7.89,3.5,3,2,4.5,4,4,1.5,4.5,4.5,4.5,4.4,Scott,Too small ,32.9903956,-117.2605899
+Taco stand,Carne asada,,,,,,,7.89,2,3,2.5,4.5,3.5,4.5,3,4,3.5,5,3.5,Richard,A little small. No rice and beans or cheese or sour cream,32.9903956,-117.2605899
+California Burritos,California Everything,Linda Vista,7754 Starling Dr,https://www.yelp.com/biz/california-burritos-san-diego,4.5,4.4,x,6.25,4,4.5,4.5,2.5,3.5,3.5,3.5,3,4,5,4.1,Scott,,32.793464,-117.1560493
+California Burritos,California Everything,,,,,,,6.25,3.5,4,4,4,2.5,3,3.5,4,4,5,4,Brent,Brent doesn't like fries in his burrito,32.793464,-117.1560493
+California Burritos,California Everything,,,,,,,6.25,4,4,4.5,4.5,5,5,5,4.5,5,5,4.6,Luis,,32.793464,-117.1560493
+California Burritos,Chile relleno and carnitas,,,,,,,6.5,5,4.5,5,5,5,5,4,4,5,5,4.7,Karl,,32.793464,-117.1560493
+California Burritos,California (only cheese),,,,,,,6.25,2,5,5,5,4,4,2,,5,5,5,Kalen,,32.793464,-117.1560493
+Vallarta express,Fish,,,,,,,6.5,2.5,3,,3.5,4,4,3,,4,1.5,3.5,Erin,,32.793464,-117.1560493
+Vallarta express,California,,,,,,,6.65,3.5,3.5,,3.5,3.5,4.5,3.5,3.5,4,4,4,Ricardo,,32.793464,-117.1560493
+Jorge's Mexicatessen,California ,Encinitas ,267 N El Camino Real,https://www.yelp.com/biz/jorges-mexicatessen-encinitas,4,4.5,,5.95,3.5,2.5,2.5,3.5,4,3,4.5,4,4.5,4.5,3.8,Scott,"Cheese should be melted, potatoes are very good",37.3689053,-122.0347776
+Jorge's Mexicatessen,Chimichanga beef,,,,,,,5.5,3,2,4,3,3,3,4,3.5,3.5,,3,Emily,,37.3689053,-122.0347776
+Senor Grubby's,California,Carlsbad,377 Carlsbad Village Dr,eatgrubbys.com,4,4.1,,9,2,2,3.5,3,1.5,1,1,2.5,1.5,3.5,1.5,Scott,"The ends of the burrito were decent, but the middle was terrible without much meat",33.1586417,-117.3499185
+Senor Grubby's,Pastor,,,,,,,9,2,2.5,2.5,1.5,2.5,1,2,2.5,2,5,1.8,Emily,,33.1586417,-117.3499185
+Taco stand,California,,,,,,,8,4,4.5,5,5,5,4.5,5,3,5,5,4.9,Sage,A wonderful eating experience. best California burrito I've ever had by far. ,33.1586417,-117.3499185
+Mi Asador Mexican & Seafood ,California ,Oceanside,4750 Oceanside Blvd,https://sites.google.com/site/miasador/,4.5,4.4,x,6.89,3,3,2.5,3,2.5,2.5,2,3.5,3,4,3,Scott,,33.2165079,-117.2718828
+Mi Asador Mexican & Seafood ,El Hawaiiano ,,,,,,,6.39,3,4,3,2.5,3.5,3,3,3.5,4,3.5,3.5,Emily,Pineapple is really good,33.2165079,-117.2718828
+Sotos Mexican Food,California,Miramar ,6904 Miramar Rd,https://www.yelp.com/biz/sotos-mexican-food-san-diego,4.5,4.6,x,6.75,3,4.5,4,3,4,1,3,4.5,3.5,4.5,3.5,Scott,Fries are good. Too little meat,32.8791407,-117.1673854
+Sotos Mexican Food,Pastor,,,,,,,5.99,2,4,2,2.5,4,4,3,3.5,4,5,3.2,Emily,Free lime. Ingredients chopped finely,32.8791407,-117.1673854
+Taco stand,California,,,,,,,7.49,3.5,3.5,4,4,4,3.5,3,4,4.5,3,4.2,Scott,Less meat than usual,32.8791407,-117.1673854
+Taco stand,California,,,,,,,7.49,4,4,3.5,4,4,4.5,5,4.5,5,4.5,4.5,Ricardo,,32.8791407,-117.1673854
+Taco stand,California,,,,,,,7.49,4,3,3,4,3.5,3.5,4,3.5,4,2.5,3.7,Luis,,32.8791407,-117.1673854
+Taco stand,California,,,,,,,7.49,3,4,2,5,5,1,3,5,4,3,4,Elynn,,32.8791407,-117.1673854
+Taco stand,California,,,,,,,7.49,1,4,3,4,4.5,5,4.5,3,4.5,4,4,Sandra,,32.8791407,-117.1673854
+Taco stand,Carne asada,,,,,,,7.89,4,4,2,4,3,4,4,4,3.5,4,3.5,Brent,,32.8791407,-117.1673854
+Taco stand,Shrimp,,,,,,,8.95,5,4,4,5,5,5,4,5,5,5,5,Sankeerth,,32.8791407,-117.1673854
+Vallarta express,California,,,,,,,6.95,4,3,3.5,2,3.5,3,2.5,2.5,2.5,2,2.9,Scott,,32.8791407,-117.1673854
+Lolita's taco shop,California,,,,,,,7,3.5,3,5,3,3.5,3,1.5,3,3,4,3.3,Scott,,32.8791407,-117.1673854
+Lolita's taco shop,2 in 1,,,,,,,8.75,3,3,4,2.7,4.7,3,2.4,2,3.7,4.5,3.7,Bankole,,32.8791407,-117.1673854
+Lolita's taco shop,2 in 1,,,,,,,8.75,4,4.5,3.8,3.8,4.5,3.4,1.5,3,3.8,4,3.8,Katie,,32.8791407,-117.1673854
+Rigoberto's Taco Shop,El Rusio,,,,,,,6.65,4,3,4.5,2.5,2,3.5,5,1.5,2,1.5,2.5,Scott,Fries are terrible. Burrito leaked,32.8791407,-117.1673854
+Rigoberto's Taco Shop,Carne asada,,,,,,,6.6,4,4,3.5,4,4,3.5,4,4,4.5,4.5,4,Ricardo,,32.8791407,-117.1673854
+Rigoberto's Taco Shop,Carne asada,,,,,,,6.6,4.5,4,3,3,3,3.5,3,,3.5,4.5,3,Erin,Meat was too salty,32.8791407,-117.1673854
+Rigoberto's Taco Shop,Carnitas,,,,,,,7.5,4,4,5,4,5,5,4,5,4,4,4,Elynn,,32.8791407,-117.1673854
+Rigoberto's Taco Shop,Bacon breakfast,,,,,,,6.25,3.5,4,3.5,4,4,5,5,,5,4.5,4.2,Luis,,32.8791407,-117.1673854
+Rigoberto's Taco Shop,Chile Relleno,,,,,,,6.6,5,5,4,,5,5,4,,5,3,4.5,Matteo,,32.8791407,-117.1673854
+Rigoberto's Taco Shop,Fish,,,,,,,6,2,5,4.5,5,5,5,5,,5,4,5,Aga,,32.8791407,-117.1673854
+Karina's Taco Shop ,Bomb,Encinitas ,916 N Coast Hwy 101,https://www.yelp.com/biz/karinas-taco-shop-encinitas,4,4.2,,7.99,3,4,4,4,3.5,2.5,3.5,4,3.5,2.5,3.7,Scott,,33.0647964,-117.3026313
+Karina's Taco Shop ,California ,,,,,,,6.99,2.5,3.5,4,3.5,3.5,3,1,4,4,4.5,3.8,Emily,,33.0647964,-117.3026313
+Juanita's Taco Shop,California ,Encinitas ,290 N Coast Hwy 101,https://www.yelp.com/biz/juanitas-taco-shop-encinitas,4,4.5,,5.55,3.5,4,4.5,3,3,5,3,4,3,5,3.5,Scott,,33.054223,-117.2969337
+Juanita's Taco Shop,Arizona,,,,,,,5.55,2.5,4.5,4,3.5,4,3.5,4,3,4,5,3.9,Emily,,33.054223,-117.2969337
+Goody's,Custom,La Jolla,Marshall College,https://www.yelp.com/biz/goodys-place-and-market-la-jolla,3.5,4.1,,7.25,3.5,1.5,1,2,2,2,2,2,2,1,1.8,Scott,Grocery store tortilla; cold guac,32.8815966,-117.2410056
+Pedro's Tacos,California Burrito,Oceanside,,,,,,6.5,5,3,,4,5,4,4,,5,5,5,Erika N,,32.8815966,-117.2410056
+Los Primos Mexican Food,619 Burrito Original,,,,,,x,11.75,4,3,,4,5,4,4,5,4,3,4,Sai G,,32.8815966,-117.2410056
+Kotija Jr.,Fish,,,,,,,6.5,4,3,,4,4,5,4,4,5,4,5,Jonathan G,Great fish burrito. Not fishy and has great crunch from both cabbage and fried fish. Super generous with amount of fish given,32.8815966,-117.2410056
+La Perla Cocina,California,,,,,,,6.5,5,4,,4,4,5,4,4,4,5,4,Laya,A LOT of carne asada!,32.8815966,-117.2410056
+Goody's,Custom,La Jolla,,,,,,8,4,3,,2,3,2,3,2,3,2,2,Albert N,"The price has gone up for the past two years. I would probably rate this lower because of it, but my scores were on raw taste only.",32.8815966,-117.2410056
+Goody's,Custom,La Jolla,,,,,,8,3,3,,1,2,2,2,2,2,1,2,Brittany T,It's gone downhill since 2013. Expensive and only ate it because there's nothing else around. closes early. skimping on the portions.,32.8815966,-117.2410056
+Chipotle,Custom,,,,,,,7,3.5,3,,5,3,3,4,4,4,4,4,Gurkirat S,,32.8815966,-117.2410056
+Rigoberto's Taco Shop,Al pastor,,,,,,,,4,5,,5,5,5,4,5,5,5,4.8,Erica,,32.8815966,-117.2410056
+Taco Surf PB,California,Pacific Beach,4657 Mission Blvd,https://www.yelp.com/biz/taco-surf-taco-shop-san-diego,4,4.6,,7.14,3.5,4,2,4,5,4,2,4,4.5,5,4.4,Scott,not too much rice,32.7988776,-117.2560148
+Taco Surf PB,California,,,,,,,7.14,5,4,2,4.5,4,3.5,2,3,4,4,4.1,Sage,hashbrowns instead of fries; anterior-posterior uniformity is good but medial-lateral is bad,32.7988776,-117.2560148
+Taco Surf PB,Carne asada,,,,,,,6.02,3.2,4.5,2,3.3,3.4,4.5,4.5,3.8,3.7,5,3.7,Dan,one hot side and one cold side from the guac,32.7988776,-117.2560148
+Roberto's Very Mexican Food,Chicken asada,Del Mar,2206 Carmel Valley Road,https://www.yelp.com/biz/robertos-very-mexican-food-del-mar-2,3.5,3.9,,6.5,2,1.5,4,2,2,4.5,1,1,2,5,1.5,Scott,,32.9342398,-117.2551306
+Roberto's Very Mexican Food,Carnitas,,,,,,,5.4,3,2,3.5,4,2.5,3.5,1.5,1.5,3,5,2.7,Emily,,32.9342398,-117.2551306
+Netos Mexican Food,California ,San Marcos,325 S Rancho Santa Fe Rd,https://www.yelp.com/biz/netos-mexican-food-san-marcos,4.5,4.1,x,5.99,4,4.5,5,3,4,2,2,2,3.75,4,3.2,Scott,not 100% certain about the ingredients (was there guac and pico?),33.1422262,-117.2013389
+Netos Mexican Food,Carne adobada ,,,,,,,5.5,3,3.5,4,3.5,3,3.5,3.5,2.5,3,2.5,3,Emily,"Best free chips, novel burrito",33.1422262,-117.2013389
+Lolita's Taco shop,Carne asada,,,,,,,6.25,4,1.5,2.5,3,4.5,4,2,2.75,3.75,3,2.6,Scott,Way too small,33.1422262,-117.2013389
+Lolita's Taco shop,Shrimp,,,,,,,8.95,3.5,3,3,4,4,3.5,3.5,2.5,4,0.5,3,Emily,,33.1422262,-117.2013389
+Lolita's Taco shop,Bean and cheese,,,,,,,3.5,1,3.5,4.5,,3,,4,3,2.5,4,2.7,Scott,,33.1422262,-117.2013389
+Pokirrito,Pokirrito classic ,Kearny Mesa,4646 Convoy St,https://www.yelp.com/biz/pokirrito-san-diego-2,4,4.3,x,11.95,4,3.5,4,4,4.5,2.5,2.5,3,4,2,4.2,Scott,Lotus chips add good crunch,32.8248571,-117.1559327
+Pokirrito,Mauna Lani,,,,,,,11.95,3,3,4,4,4,3,2.5,4.5,4,1.5,4,Emily,,32.8248571,-117.1559327
+Los Primos Mexican Food,California,,,,,,,7.5,4,3,5,3.5,3.5,4,4,2.5,3,5,3.5,Sage,,32.8248571,-117.1559327
+El Nopalito ,Especial ,Encinitas,582 Santa Fe Dr,https://www.yelp.com/biz/el-nopalito-encinitas,4,4,x,4.87,2,3,4,1.5,2,3,5,3,2.5,5,2.6,Scott,"It's pretty good for what it is, but just not the best ingredients for a burrito. also Few white people",33.0367532,-117.2796615
+El Nopalito ,Ranchero steak,,,,,,,4.87,2.5,3.5,3,2.5,2.4,3.5,4.5,3,3,1.5,2.6,Emily,,33.0367532,-117.2796615
+Goody's,Carne Asada,,,,,,,6.25,4.5,3.5,3,2,2,2.5,3,2,1.5,1,2,Kevin,"Sucks, but it is okay.",33.0367532,-117.2796615
+Saguaro's ,Vegetarian,,,,,,,5.25,4,4,5,,5,4,4,5,5,5,4.8,Brian,"Great rice and beans burrito, doesn't come with cheese or sour cream. ",33.0367532,-117.2796615
+Colima's ,Colimas burrito,,,,,,x,8.25,4,5,5,5,5,5,5,,5,4.5,4.9,Brian,,33.0367532,-117.2796615
+"Alberto's 623 N Escondido Blvd, Escondido, CA 92025",Carne Asada,,,,,,,4.59,4,4,4,5,5,5,5,5,5,4,4.8,Chuck K,,33.0367532,-117.2796615
+MXN on Washington,Bean and rice grande size,,,,,,,2.99,3,4.5,3.5,,4.5,,3.5,3,4,4,4.5,Sarah,Got green and hot salsa put inside the burrito-drive thru,33.0367532,-117.2796615
+El Zarape,Surf and Turf,,,,,,,7,2.5,5,5,5,5,5,5,5,5,5,5,Damien B,Get the green sauce,33.0367532,-117.2796615
+Lolita's,Bean and Cheese,,,,,,,,4.3,3.8,4,,4.7,,5,,4.7,5,4.8,,,33.0367532,-117.2796615
+Humbertos,Pollo california,,,,,,,6,5,4,5,5,5,5,4,5,5,5,5,Logan,,33.0367532,-117.2796615
+Chili Peppers,Surf & Turf,,,,,,,9.43,,4,5,5,5,5,5,5,5,5,5,Chris H,,33.0367532,-117.2796615
+Los Primos Mexican Food,Monster California,,,,,,,9.25,3.5,2,1,3,3,1,,3,2,4,2.3,Scott,,33.0367532,-117.2796615
+Los Primos Mexican Food,California,,,,,,,7,3,4.5,4,3.5,4,1,1,2,2,4,2.5,Ricardo,,33.0367532,-117.2796615
+Los Primos Mexican Food,California breakfast,,,,,,,6.25,2.5,3,4,3,2,1.5,1,3,1.5,3,2,Erin,,33.0367532,-117.2796615
+Los Primos Mexican Food,Baja monster,,,,,,,6,4,3,3,1,4,2,2,3,2,1,2,Elynn,,33.0367532,-117.2796615
+Los Primos Mexican Food,Baja monster,,,,,,,6,3,4,3.5,4,4,2,4,4,4,3,3.8,Rob,,33.0367532,-117.2796615
+Los Primos Mexican Food,Carnitas,,,,,,,6.35,4.5,4,4,2.5,2,3,2,2,2,3,2,Matteo,,33.0367532,-117.2796615
+Los tacos ,Local,Oceanside,2183 Vista Way,https://www.yelp.com/biz/los-tacos-oceanside,4,4.2,,7.9,3.5,3.5,4.5,4.5,4,1.5,1.5,3,4,5,3.5,Scott,,33.182633,-117.3409135
+Los tacos ,Fusion,,,,,,,8.5,3.5,4,4,4,3.5,4,4,4,4.5,4.5,4.2,Emily,,33.182633,-117.3409135
+Taco Stand,Al pastor,,,,,,,6.99,3.5,4,3.5,4,3.5,4,5,2.5,4,4.5,3.9,Scott,,33.182633,-117.3409135
+Taco Stand,Al pastor,,,,,,,6.99,5,4,4,4,4,2,3,3,4,3,3.5,Brad P,,33.182633,-117.3409135
+Albertacos,California ,San Marcos,500 W San Marcos Blvd # 103,https://www.yelp.com/biz/albertacos-san-marcos,3.5,3.9,,5.7,3.5,3.5,3,3,4,1.5,4,4,4,4,3.7,Scott,,33.1395266,-117.1721626
+Albertacos,Carne asada,,,,,,,5.25,4,3.5,3,2.8,3.5,4,4,4,3.5,5,3.2,Emily,,33.1395266,-117.1721626
+El Rey Moro,California Surf,Clairemont,4471 Clairemont Mesa Blvd,https://www.yelp.com/biz/el-rey-moro-taco-shop-san-diego,4,3.8,,9.19,2.8,3.5,4.5,4,3.5,5,4.5,3,3.5,5,4,Scott,shrimp is really good. too much chipotle sauce,32.8338051,-117.1955713
+Tacos por favor,Carne asada,Santa Monica,1408 Olympic Blvd,https://www.yelp.com/biz/el-dorado-mexican-food-temecula,4,4.1,x,7.85,3,3,4.5,4.5,3.5,3.5,3.5,1,4,1,3.5,Scott,,32.7520904,-117.0698457
+Tacos por favor,Al pastor,,,,,,,6.85,4,3,5,4,3,5,4,3,4,3,4,Christian,,32.7520904,-117.0698457
+Tacos por favor,Carne asada,,,,,,,6.85,4,4,5,3.5,3,4,4,3,3,3,3.5,Sam H,,32.7520904,-117.0698457
+El Dorado Mexican Food,California,Temecula,29000 Old Town Front St,https://www.yelp.com/biz/el-dorado-mexican-food-temecula,4.5,4,,6.94,4,4,4,4,4.5,3.2,3,4.5,4.5,2,4.5,Scott,Salsa verde has an interesting hint of garlic,33.4841601,-117.142935
+El Dorado Mexican Food,Super,,,,,,,6.94,3.75,3.5,3.5,3.5,3.5,4,4,4.5,3.5,4.5,3.8,Emily,,33.4841601,-117.142935
+Lolita's Taco Shop,California,,,,,,,7,2.2,2.8,3,3,2,2,4.5,2,1.5,4.5,2.3,Scott,,33.4841601,-117.142935
+Lolita's Taco Shop,California,,,,,,,7,3.5,4,4,4,3,4,5,4,4,5,4,Cris,,33.4841601,-117.142935
+Lolita's Taco Shop,California,,,,,,,7,3,3.5,2,3,4,2,4,3,3,4,3,Matt,,33.4841601,-117.142935
+Lolita's Taco Shop,Mixed,,,,,,,8.25,4,4,3,4,4,4,5,3,4,5,3.5,Marc,,33.4841601,-117.142935
+California Burritos,California Everything,,,,,,,6.25,3,3.8,1.3,3.5,3.5,4.5,4.5,3.5,4,5,3.9,Scott,Temperature brought it down,33.4841601,-117.142935
+California Burritos,California Everything,,,,,,,6.25,4.5,4,4,4.5,4,4,3.5,4,4,4.5,4.25,Ricardo,,33.4841601,-117.142935
+California Burritos,California Everything,,,,,,,6.25,4,3,2.5,4,4,4,2,2,3,4,4,Elynn,,33.4841601,-117.142935
+California Burritos,California Everything,,,,,,,6.25,3,5,4,4,4.5,4,4.5,,4,4,4.5,Erin,,33.4841601,-117.142935
+California Burritos,California Everything,,,,,,,6.25,4,4,3.5,4.5,4,4.5,4,4.5,4.5,5,4.5,Luis,,33.4841601,-117.142935
+California Burritos,Carnitas,,,,,,,5.5,4.5,5,4,5,4,4.5,4,4,4.5,4,4.5,Matteo,,33.4841601,-117.142935
+California Burritos,Carne asada everything,,,,,,,6.25,3,4,3,4,3,4,3,3,4,4,4,Brent,,33.4841601,-117.142935
+California Burritos,Carne asada everything,,,,,,,6.25,4.5,4,5,4.5,4,4.5,4,3,4,5,4.5,Daniel,,33.4841601,-117.142935
+California Burritos,Carne asada everything,,,,,,,6.25,5,4,3,5,4,4,4,5,5,3,4.2,Alejandro,,33.4841601,-117.142935
+California Burritos,California Everything,,,,,,,6.25,4,4,4,3.5,4,3,4,4,3.5,4.5,3.75,Ricardo,,33.4841601,-117.142935
+California Burritos,California Everything,,,,,,,6.25,4,3,2,4,5,4,4,3,4,3,4,Elynn,,33.4841601,-117.142935
+California Burritos,California Everything,,,,,,,6.25,4,4,3.5,3.5,4,3.5,4,3.5,4,4.5,4,Matteo,,33.4841601,-117.142935
+California Burritos,California Everything,,,,,,,6.25,3.5,3.5,2,3,3.5,3.5,2.5,2.5,3.5,4.5,3.4,Scott,,33.4841601,-117.142935
+California Burritos,California Everything,,,,,,,6.25,3,4,4,4.5,5,4.75,5,4,4.5,4.5,,Aga,,33.4841601,-117.142935
+California Burritos,Surf & Turf,,,,,,,7,4.31,3,2.5,3.5,3,3.5,4,3,3,4,,Hannah,,33.4841601,-117.142935
+California Burritos,Carne asada everything,,,,,,,6.25,4.5,4.5,4,4,4.5,4,4,4.5,4.5,4,4,Brent,,33.4841601,-117.142935
+Los Primos Mexican Food,Surf & Turf,,,,,,,7,2.5,4,4,2,3,2,3.5,3,3,4.5,2.5,Emily,,33.4841601,-117.142935
+Los Primos Mexican Food,Adobada,,,,,,,6.25,2,4,2.5,2.5,3,2,4,3.5,3,4.5,2.6,Scott,,33.4841601,-117.142935
+Los Primos Mexican Food,Carne asada,,,,,,,7,4,3.5,3,2,2,1,3,3.5,1.5,4,2,Ricardo,,33.4841601,-117.142935
+Papa Chito's Mexican Food,California,University City,3951 Governor Dr,https://www.yelp.com/biz/papa-chitos-mexican-food-san-diego,2.5,3.3,,6.25,3.5,3.5,3.5,2.5,2.5,2.5,4,2,1.5,5,2.2,Scott,,32.8535474,-117.2039457
+Papa Chito's Mexican Food,California,,,,,,,6.25,4,4,5,3,3,4,3.5,4,4,5,3.75,Sage,,32.8535474,-117.2039457
+El Pueblo Mexican Food,California,Cardiff ,820 Birmingham Dr,https://www.yelp.com/biz/el-pueblo-authentic-mexican-food-cardiff-by-the-sea,4,4.7,,4.99,4,4.5,4.5,3.5,4,4.5,5,2.5,4.5,5,4.3,Scott,,32.7976795,-117.1532999
+Burros and Fries,California,Clairemont,4705 Clairemont Dr,http://www.burrosandfries.com/,3.5,4.1,,6.89,4,3.5,4.5,3.5,3.5,3,1.5,2.5,3.5,5,3.5,Scott,good fries,32.8297288,-117.2050566
+Burros and Fries,Carne asada,,,,,,,6.89,5,3,5,4.5,4.5,3,4,4.5,4,4.5,4,Brent,very little guac,32.8297288,-117.2050566
+King Burrito,Adobada,Oceanside,3490 Marron Rd,https://www.yelp.com/biz/king-burrito-oceanside-2,4,3.9,,4.99,3.5,3,3,3,3,2.5,2,2.5,3,4,2.8,Emily,Too much tortilla per bite,33.1788465,-117.2947296
+King Burrito,California,,,,,,,5.29,3.5,2.5,4.5,2,3,2.5,1.5,3,2,4.5,2.5,Scott,it does taste homemade. but that's not a good thing,33.1788465,-117.2947296
+Taco Stand,California ,,,,,,,7.49,2,4,5,4.5,3.5,3.5,2,3.5,4,5,4,Scott,,33.1788465,-117.2947296
+Taco Stand,California ,,,,,,,7.49,2.5,3.5,5,4,3,4,4.5,3,3.5,5,4,TJ,,33.1788465,-117.2947296
+Carmen's Mexican Food,Adobada,Clairemont,4937 Diane Ave,https://www.yelp.com/biz/carmens-authentic-mexican-food-san-diego,4,4.2,,6.5,3.5,2.5,4,3.5,4,4,3,1.5,3.5,5,3.6,Scott,really good guac,32.8352268,-117.1868331
+Carmen's Mexican Food,Carne asada,,,,,,,6.5,5,4.5,4.5,3.5,4,4,3.5,4,4,4,4,Brent,,32.8352268,-117.1868331
+Senor Panchos,Pollo asado,San Marcos,1909 W San Marcos Blvd,https://www.yelp.com/biz/senor-panchos-mexican-restaurant-san-marcos,4,4.2,,6.25,3.5,2.5,3.5,3,3,5,4.5,3.5,2,5,2.9,Scott,"guac is good, very avocado-y",33.1314939,-117.2095632
+Senor Panchos,California,,,,,,,6.25,3,3,4,4,3,3.5,4.5,4,4,5,4,Emily,feels very dense; a lot of meat,33.1314939,-117.2095632
+Los Cabos,California,San Marcos,165 S Rancho Santa Fe Rd,https://www.yelp.com/biz/los-cabos-san-marcos,4,4.1,x,5.99,4,4,4.5,2.5,2.5,2.5,1.5,3,4,5,3,Scott,Repeatedly get large bites of sour cream,33.1467401,-117.1991346
+Los Cabos,Al pastor,,,,,,,5.69,3,4,4.5,3,3.5,4,3.5,2.5,4,4.5,4,Emily,Really good with lime,33.1467401,-117.1991346
+Rubios UCSD,Tilapia one,UTC,9500 Gilman Dr,https://www.yelp.com/biz/rubios-la-jolla-4,3.5,3.4,x,7.99,3.5,1.5,4,3,3,1.5,4.5,2.5,3,1.5,3.2,Scott,,32.8799731,-117.237084
+Lucha Libre North Park,Surf & Turf,North Park,3016 University Ave,https://www.yelp.com/biz/lucha-libre-san-diego,3.5,4.3,x,8.25,4,3,2.5,3,3,3,3,3.5,3,3,3,Hannah,,32.7486959,-117.1297798
+Lucha Libre North Park,Surf & Turf,,,,,,,8.25,3,5,3,5,4,2,2,5,2,2,2,Tammy,,32.7486959,-117.1297798
+Lucha Libre North Park,Surf & Turf,,,,,,,8.25,3.9,2.1,1.9,2.6,2.4,2.9,3.2,4,2.5,3,2.4,Bankole,Not as good as the first time,32.7486959,-117.1297798
+Lucha Libre North Park,Surf & Turf,,,,,,,8.25,4,3,2.5,2,2.8,3.5,3.5,4,3,4,2.2,Melissa N,,32.7486959,-117.1297798
+Lucha Libre North Park,Surf & Turf,,,,,,,8.25,3.5,3.6,3.2,3.2,3.5,3.6,3.5,,3.8,3.9,3.6,Katie,,32.7486959,-117.1297798
+Lucha Libre North Park,Surfin California,,,,,,,8.25,3,3,3,4,3.5,3,2,3.5,3.5,4,3.9,Emily,thick chips,32.7486959,-117.1297798
+Lucha Libre North Park,Surfin California,,,,,,,8.25,4,3.5,2,4,3,5,5,4,4,5,3.5,Melissa G,Good guac,32.7486959,-117.1297798
+Lucha Libre North Park,Surfin California,,,,,,,8.25,4,4,3,3,3,3,2,3,3,4,3,Marc,"shrimp was questionable; salsa was mediocre to bad; overall ok, better than past burritos at lucha libre",32.7486959,-117.1297798
+Lucha Libre North Park,Surfin California,,,,,,,8.25,1,3,2,4,3,5,5,4,3.5,5,3.5,Ashley G,good guac but fries could be better,32.7486959,-117.1297798
+Lucha Libre North Park,Surfin California,,,,,,,8.25,2,3.5,2,5,3.5,4,2.5,3.5,3,3.5,3.5,Richard,probably positively biased by service,32.7486959,-117.1297798
+Lucha Libre North Park,Surfin California,,,,,,,8.25,3,5,4,4,4,3,3,4,4,4,4,Mike,,32.7486959,-117.1297798
+Lucha Libre North Park,Surfin California,,,,,,,8.25,1,4,3,3.5,3,5,4,2,3,4,3,Sankha G,,32.7486959,-117.1297798
+Lucha Libre North Park,Nutty,,,,,,,7.5,3.8,3.8,4,4,4,4,4,4.5,4.5,4.5,4.4,Luis,,32.7486959,-117.1297798
+Lucha Libre North Park,Veg Out,,,,,,,6.95,3,5,5,,5,,5,4.5,5,3,4.5,Aga,,32.7486959,-117.1297798
+Lucha Libre North Park,Veggie,,,,,,,5.25,3,4.5,4.5,,3.5,,3,4,3.5,5,3.25,Rob G,,32.7486959,-117.1297798
+Lucha Libre North Park,Bean and cheese,,,,,,,3.75,5,4,3,,1,,3,3,2,3,2,Meghan,Bland,32.7486959,-117.1297798
+Lucha Libre North Park,California - Steak,,,,,,,7.5,2.5,3,3,5,3.5,3,3.5,4.5,4,4.5,3.9,Scott,"first bite sour cream, but probably the best steak I've had in a burrito",32.7486959,-117.1297798
+Lucha Libre North Park,California - Steak,,,,,,,7.5,5,3.5,3,2,3,3,2,4,2.5,5,3.5,Devleena,fries = 4,32.7486959,-117.1297798
+Lucha Libre North Park,California - Pork Adobada,,,,,,,7.5,4,2,3,3,3,4,3,4,3,5,3,Erik,,32.7486959,-117.1297798
+Lucha Libre North Park,California - Pork Adobada,,,,,,,7.5,4.5,3.5,4,4.5,4,3.5,3.5,4,4,4.5,4.25,Ricardo,,32.7486959,-117.1297798
+Lucha Libre North Park,California - Pork Adobada,,,,,,,7.5,2,4,5,5,4,4.5,4.5,5,4.5,4,4.5,Erin,,32.7486959,-117.1297798
+Lucha Libre North Park,California - Chicken,,,,,,,7.5,4,3.5,2.5,3,4.5,3,2,5,4.5,3.5,2.5,Kelsey,,32.7486959,-117.1297798
+Lucha Libre North Park,California - Chicken,,,,,,,7.5,3,3.5,5,3.5,4,3,3,4,2.5,5,3,Javier,"large, bt feels good in my hands",32.7486959,-117.1297798
+Lucha Libre North Park,Holy Moly,,,,,,,7.5,5,3.5,2,3.5,3.5,3,4,2,2,4,3.5,Sam A,,32.7486959,-117.1297798
+Lucha Libre North Park,Holy Moly,,,,,,,7.5,3,2.5,2.5,3,2,2,1,5,1,5,1.5,Sage,all meat at bottom 1/8th,32.7486959,-117.1297798
+Lucha Libre North Park,Holy Moly,,,,,,,7.5,4,5,3,5,5,3,2,2,3,5,4,Aaron S,,32.7486959,-117.1297798
+Lucha Libre North Park,Holy Moly,,,,,,,7.5,5,5,4,2,1,4,3,5,4,2,2,Jaeyoung,Ordered a specialty burrito and guess I was expecting an ordinary one! Sauce was good but overpowering; no veggies at all; overall just did not feel like a burrito.,32.7486959,-117.1297798
+Lucha Libre North Park,Holy Moly,,,,,,,7.5,4.5,4,4,3.5,4.5,4,4,5,4.5,4,4,Matteo,,32.7486959,-117.1297798
+Tacos La Bala,Pastor,Houston,5800 Bellaire Blvd,tacoslabala.com,4.5,4.1,,4.99,3.5,2.5,2.5,4,2.5,1,1,2,4,0,2.5,Scott,Everything is in spanish. Get a taco or sope,29.70652,-95.48341
+Tacos La Bala,Barbacoa ,,,,,,,4.99,2.5,2,2.5,3.5,2,3,2.5,2,2.5,2.5,2.4,Emily,"Burritos cut in half, felt like a wrap instead of a burrito",29.70652,-95.48341
+Cancun Mexican & Seafood,Adobada,,,,,,,6.45,3,4,5,3.5,3,3.5,3.5,4,2.5,4,3.5,Scott,Free salad,29.70652,-95.48341
+Cancun Mexican & Seafood,California,,,,,,,6.99,4,3,4.5,4,4,3.5,3,4,4,5,4,Emily,,29.70652,-95.48341
+Roberto's Taco Shop Clairemont,California,Clairemont,3095 Clairemont Dr,https://www.yelp.com/biz/robertos-taco-shop-clairemont-san-diego,4,4,,5.79,4,3,4.5,4,4,4,5,2.5,3,5,3.6,Scott,Fries are really good but the overall flavor is plain because lack of ingredients,32.7973995,-117.192783
+Roberto's Taco Shop Clairemont,California,,,,,,,5.79,4,4,3,4,2.5,3.5,4,2,2.5,5,3,Benni,,32.7973995,-117.192783
+Roberto's Taco Shop Clairemont,California + Guac + sour cream,,,,,,,7.29,3.7,3.8,4.7,4,3.5,4.5,4,4,4.5,5,4,Luis,,32.7973995,-117.192783
+Roberto's Taco Shop Clairemont,Carne asada,,,,,,,5.69,3,4,3,1.5,3,4,4.5,3.5,2,4.5,3,Ricardo,,32.7973995,-117.192783
+Chipotle,Carnitas,Carlsbad,2505 Palomar airport Rd,https://www.yelp.com/biz/chipotle-mexican-grill-carlsbad,3,4.2,,7.15,4,2.5,2.5,3,2.8,2.5,3.5,,3,3.5,2.75,Emily,,33.1297433,-117.2668654
+Taco Stand,Al Pastor,,,,,,,6.99,4,4.5,4,4.5,4.5,4.5,4.5,4.5,5,4,4.5,Mike,,33.1297433,-117.2668654
+Taco Stand,California,,,,,,,7.49,4.1,4,4.5,4.5,4.5,4.7,4.5,4.2,4.5,5,4.7,Luis,,33.1297433,-117.2668654
+Los Tacos,California ,,,,,,,7.9,3.5,4,5,4,4,3,4,3.5,4,4,4.2,Scott,Tortilla is burnt a bit but good. Pick is good,33.1297433,-117.2668654
+Los Tacos,Local,,,,,,,7.9,3.5,4,3.5,4.5,4.5,3.5,3.5,3.5,4,3,4.3,Emily,Melted cheese is good. Cilantro is fresh,33.1297433,-117.2668654
+El Cuervo,California ,Hillcrest,110 Washington St,https://www.yelp.com/biz/el-cuervo-taco-shop-san-diego,4,4.3,,6.95,3.5,3.5,3.5,3,4,3,3,4.5,3.5,2,3.6,Scott,Alfajores dessert and horchata are super good,32.7500492,-117.1636872
+El Cuervo,Pollo adobado,,,,,,,5.95,4,3.5,5,4.5,3.5,4,4.5,4.5,4,5,4,Richard,First burrito I enjoyed from top to bottom,32.7500492,-117.1636872
+El Torrito Foods,Asada,Vista,249 Emerald Dr,https://www.yelp.com/biz/el-torito-foods-vista-2,4,4.4,,5.49,4,3,5,3,3,2.5,4,3.5,3,5,3.1,Scott,Good because so cheap,33.191101,-117.2790471
+El Torrito Foods,Adobada,,,,,,,3.99,4.5,3.5,4,3,2.5,2.8,4,2.5,2.5,5,2.6,Emily,tamale isn't good,33.191101,-117.2790471
+La Morena Taco Shop and Seafood,California,Webster,5059 Federal Blvd,https://www.yelp.com/biz/la-morena-taco-shop-san-diego,4.5,4.7,,6.35,4,4,2.5,4,3,4.5,2,2,3,4,3,Erin,"Good tortilla, good amount of food, needed guac. or salsa to balance out density of fillings.",32.7211059,-117.0863535
+Taco Villa,Carnitas,UTC,9500 Gilman Dr,https://www.yelp.com/biz/taco-villa-san-diego,3.5,3.5,,5.99,2.5,3.2,3.8,4.5,2.8,4,2,1.8,3.5,5,4,Scott,Carnitas very good,32.8799731,-117.237084
+Rigoberto's Taco Shop,Campeon,,,,,,,7.65,4.5,3.5,4.5,2.5,2.5,1,1.5,3,2.5,3,2.7,Scott,"The big size was too big of an appeal, but there's just not enough meat",32.8799731,-117.237084
+Rigoberto's Taco Shop,California,,,,,,,6.6,3.5,4,4.5,4,4,4.5,5,4.5,4.5,4.5,4.25,Ricardo,,32.8799731,-117.237084
+Rigoberto's Taco Shop,Bacon breakfast,,,,,,,6.3,4,4,3.6,4,4,4,4,,4,4,4.2,Luis,,32.8799731,-117.237084
+Rigoberto's Taco Shop,Carnitas,,,,,,,6.6,3,4,4,5,5,4.5,3,2,4,4,4,Elynn,,32.8799731,-117.237084
+Taco Villa,Al pastor,,,,,,,5.99,4,3.5,3.5,2,3,4.5,4.5,3,3,5,3.2,Scott,get the carnitas,32.8799731,-117.237084
+Valentines Mexican Food,California ,Downtown,1157 Sixth Ave,https://www.yelp.com/biz/valentines-mexican-food-san-diego-6,4,4,X,7.9,4,4,4,4,4,4.5,4,4,4,2.5,4.2,Scott,Best horchata. Fries are great. Chips are really good,32.7174996,-117.1591189
+Valentines Mexican Food,California Chipotle,,,,,,,7.9,3,4,4,3.5,4.5,4,3.5,2.5,4,1.5,4,Emily,"Chips really good, really good but a little bit spicy chipotle. Very good horchata",32.7174996,-117.1591189
+Matador Mexican Food,Carnitas,Morena,5201 Linda Vista Rd,https://www.yelp.com/biz/matador-mexican-grill-san-diego-2,4.5,4,X,6.6,3.2,1.4,3.7,3,3.2,4.8,2.4,3,2.9,3,3,Scott,,32.7653159,-117.1963665
+Matador Mexican Food,Carne asada,,,,,,,6.6,4,4,3.5,3.5,3.5,4,3,3.5,3.5,4.5,3,Brent,Salsa too spicy,32.7653159,-117.1963665
+Jose's Taco,California,Oceanside,3910 Vista Way,https://www.yelp.com/biz/joses-taco-oceanside,4,3.8,,6.1,4,3.5,3.5,2,3.5,4.5,3.5,3,3.5,4,3.3,Scott ,,33.184526,-117.2934667
+Cortez Mexican Food,California ,Bonsall,5517 Mission Rd,https://www.yelp.com/biz/cortez-mexican-food-bonsall,4.2,4,,6.25,4,3.5,4,2.5,3,1.5,2.5,2.5,2.8,5,3.2,Scott ,,33.290914,-117.2259519
+California Burrito Company,Dave's California,Miramar,6912 Miramar Rd,https://www.yelp.com/biz/california-burrito-company-san-diego-2,3.5,4.4,,6.5,4,3,2.5,2.5,3,4,3.5,2.5,3,5,3.3,Scott,The burrito looked beautiful when it came out. Chicken didn't add anything. would probably get the regular,32.8788215,-117.1668915
+California Burrito Company,California,,,,,,,5.5,4,3.5,5,3,3,3.5,3.5,2,4,5,3.5,Devleena,,32.8788215,-117.1668915
+California Burrito Company,California,,,,,,,5.5,2,3,5,3,4,2,2,2,4.5,4,3.5,Sankha G,,32.8788215,-117.1668915
+Taco Villa,Chicken and rice,,,,,,,4.95,3,3.5,5,4,4,3.78,5,,4.7,5,4.2,Sage,chicken and rice burrito. simple and delicious. ,32.8788215,-117.1668915
+Taco Villa,California ,,,,,,,6.99,3.5,3,3,3,3,3.7,3.5,3.8,3,5,3.5,Scott,Pretty decent,32.8788215,-117.1668915
+Storehouse Kitchen ,Breakfast,La  Jolla village,,,,,,,3.5,4,5,4.5,4.2,4.7,4.4,4,4.9,5,4.6,Sage,one if the best breakfast burritos I've ever had,32.8788215,-117.1668915
+California Burrito Company,Fajitas ,,,,,,,6.5,3,3,4.5,3.5,1.5,1.5,2,3.2,2,4.5,2.2,Scott,Peppers not cooked enough,32.8788215,-117.1668915
+California Burrito Company,California ,,,,,,,5.5,3,3,4,4.5,3,2,4,4.5,3.5,4.5,3.5,Ricardo,Very plain burrito,32.8788215,-117.1668915
+Taco Villa,Breakfast,,,,,,,4.99,4,4.5,5,3,3,3,2.5,0,2.5,5,3,Sage,pretty standard breakfast burrito. eggs and cheese. great tortilla! morning protein!,32.8788215,-117.1668915
+California Burritos,California Everything,,,,,,,6.95,4,4,2,4,3,4,5,3,3,4,4,Elynn,,32.8788215,-117.1668915
+California Burritos,Surf & Turf,,,,,,,7,4,3,3,3.5,4,4,3,3,4,3.5,5,Hannah,,32.8788215,-117.1668915
+Taco Villa,Carnitas,,,,,,,5.95,3,4,3,4,3,4,2,3.5,3,5,3.9,Scott,,32.8788215,-117.1668915
+Taco Villa,Tejano,,,,,,,6.99,3.5,2,5,4.2,3,4.7,5,3.7,4.2,5,4,Sage,,32.8788215,-117.1668915
+Taco Villa,Al pastor,,,,,,,,4.5,3,4,4,4,4,4,4,4,3,4,Marc,,32.8788215,-117.1668915
+Taco Villa,Shrimp with guac,,,,,,,,2,2,4,3,4,4,4,3,4,4,3,Jeremy,,32.8788215,-117.1668915
+Taco Villa,Bean & cheese,,,,,,,,3,5,5,,3,2,2,,1,5,2,Shijia,,32.8788215,-117.1668915
+Taco Stand Encinitas,California ,Encinitas ,642 S Coast Hwy 101,https://www.yelp.com/biz/the-taco-stand-encinitas,4,4.4,,7.49,4,2,3.5,4.2,4.3,4,2.2,4.5,4,2.2,4.2,Scott,Much better than the first time we tried this location ,33.0440809,-117.293903
+Taco Stand Encinitas,California ,,,,,,,7.49,2,3.8,3.8,4,4.2,3.75,4,4.75,4.4,3.8,4.2,Emily,Possibly favorite green salsa so far,33.0440809,-117.293903
+Donato's Taco Shop,Al pastor ,,,,,,,5.99,4,3,4.5,3.7,2.8,5,4.5,3,2.3,4.5,3,Scott,,33.0440809,-117.293903
+Donato's Taco Shop,Carne asada,,,,,,,5.99,2,2,4,4.5,4,4,3,4,4,2,4,Elynn,,33.0440809,-117.293903
+Ortiz's Taco Shop #2,California,Pacific Beach,1313 Garnet Ave,https://www.yelp.com/biz/ortizs-taco-shop-san-diego-2,4,4.2,,6.39,4,4,4,4,4,4.5,4.5,4.2,4.5,4.5,4.25,Scott,,32.7983334,-117.2458182
+Ortiz's Taco Shop #2,California chicken,,,,,,,6.39,4.25,2,4,3.7,2,4,4.5,4.5,2.7,5,2.66,Sage,,32.7983334,-117.2458182
+Ortiz's Taco Shop #2,California,,,,,,,6.39,4.5,3,4.4,4,4,4.5,4.2,4.3,4,5,4.2,Shijia,,32.7983334,-117.2458182
+Ortiz's Taco Shop #2,California,,,,,,,6.39,4.75,2,,3.5,3,5,4,2,3.5,3.5,3.5,Jeremy,,32.7983334,-117.2458182
+El Portal Fresh Mexican Grill,Mahi,Clairemont,4101 Genesee Ave,https://www.yelp.com/biz/el-portal-fresh-mexican-grill-san-diego,4,4.4,X,7.35,2.3,4,4,3.5,2,1.5,2,2,3,1.2,3.1,Scott,,32.8175541,-117.1806305
+El Portal Fresh Mexican Grill,Carnitas,,,,,,,6.7,3.75,3.5,4,4,3,3.75,4,3,3.5,4.5,3.75,Emily,,32.8175541,-117.1806305
+El Zarape,California,,,,,,,6.25,4,2.5,4,3.75,4,3.75,5,4,4,5,3.9,Scott,,32.8175541,-117.1806305
+El Zarape,California,,,,,,,6.25,4,3,,4,4,4,4,2,3,5,4,Ant,,32.8175541,-117.1806305
+El Zarape,California,,,,,,,6.25,3,4,4,2,2,4,3,3,3,5,3,Erik,,32.8175541,-117.1806305
+El Zarape,Carne asada supreme,,,,,,,6.25,4,4,4,,3.5,3.5,4,4,4,4,4,Tom,,32.8175541,-117.1806305
+Famoso Mexican Street Food,Cali Diablo,Downtown,815 C St,https://www.yelp.com/biz/famoso-mexican-street-food-san-diego-20,4.5,3.9,,10.5,3,2,2.5,3.3,3.5,1.5,4,2.5,2.5,3,3.1,Scott,Big roach on the floor while eating. Good prep took quite a long time. Cut in half!,32.7166296,-117.1571556
+Valentines Mexican Food,Carne asada,,,,,,,6.75,3,4.5,4.7,4.5,3.5,4,4.5,4.5,3.5,5,4.2,Scott,,32.7166296,-117.1571556
+Valentines Mexican Food,Pork california,,,,,,,7.9,4,5,5,4,5,5,3,4,5,3,5,Justin K,,32.7166296,-117.1571556
+Valentines Mexican Food,California,,,,,,,7.9,4,3,5,5,4,5,4,3,5,2,4.5,Shreejoy,,32.7166296,-117.1571556
+Valentines Mexican Food,California,,,,,,,7.9,4,4,4,3,4,4,4,3,3,4,4,@synapticlee,,32.7166296,-117.1571556
+Valentines Mexican Food,California,,,,,,,7.9,3.5,4,3.5,4.7,4,4.5,4.5,4.5,4,3.5,4.7,@danjlurie,,32.7166296,-117.1571556
+Cancun Mexican & Seafood,California ,,,,,,,6.99,4.3,4.8,5,4,4.4,5,4,4.3,4.3,5,4.5,Scott,Sour cream is surprisingly good. Avocado salsa works very well on the burrito,32.7166296,-117.1571556
+Cancun Mexican & Seafood,California ,,,,,,,6.99,4,4.5,4.5,4,4.5,4,4,3.5,4.5,5,4.5,Emily,,32.7166296,-117.1571556
+Los Panchos Taco Shop,California,Hillcrest,409 Washington St,https://www.yelp.com/biz/los-panchos-san-diego-2,3,3.4,x,6.25,3,3.5,5,4,3,4,3,3.5,3.5,3,3.7,Scott,,32.7496735,-117.1612401
+Los Panchos Taco Shop,Bitchin California,,,,,,,7.25,4,4,4,5,4.5,4,3.5,5,4.5,5,4.4,Richard,,32.7496735,-117.1612401
+Los Panchos Taco Shop,Tijuana,,,,,,,7,3.5,4,4,3.5,4,4,3.5,4.5,4,3.5,3.7,Tom,,32.7496735,-117.1612401
+Pollos Maria,Combo chicken,,,,,,,6.99,3.5,3.5,2.5,4,3.5,3,2.5,2.5,4.5,0.5,3.8,Scott,Started off really great but ended with poor uniformity and wrap integrity,32.7496735,-117.1612401
+Pollos Maria,Carne asada,,,,,,,6.49,3,3.5,4,3,4,3.5,4,3,4,4.5,3.5,Emily,Just way too small,32.7496735,-117.1612401
+El Pollo Loco,Chicken avocado,Oceanside,3500 College Blvd,https://www.yelp.com/biz/el-pollo-loco-oceanside-5,3.5,4.1,,5.99,3.5,2,3,3.8,2.5,2.5,3,2.5,3,2.6,3.2,Scott,,32.7442939,-117.0546585
+Gloria's Taco Shop,California ,South Park,1233 28th St,https://www.yelp.com/biz/glorias-taco-shop-san-diego,4,4.3,,5.65,3,4,1.5,2,3,4.2,4,3,2,4.5,2.7,Scott,Horchata tasted like bubble gum,32.7186247,-117.1336562
+Gloria's Taco Shop,Cabeza,,,,,,,5.49,3,4.5,5,2,2,2.5,3.5,3,2.5,3,2,Richard,Meat is squishy,32.7186247,-117.1336562
+Mr. Ruribertos Taco Shop ,California,Mission Beach,3202 Mission Blvd,https://www.yelp.com/biz/ruribertos-taco-shop-san-diego,3.5,3.7,,7.75,4,3.5,2.5,3,3.3,1.4,2.3,2.2,3.3,4.5,2.9,Scott,,32.7721947,-117.2514332
+Mr. Ruribertos Taco Shop ,Carne asada,,,,,,,7.75,4,4,4.5,2,2,3.5,3.5,2,2,4,3,Brent,"Carrots are bad, got better as it went on",32.7721947,-117.2514332
+Mister Falafel,Chicken Shawarma,Clairemont,4461 Clairemont Mesa Blvd,https://www.yelp.com/biz/mister-falafel-san-diego,4.5,4.6,,6.99,3.7,3.6,4,4,3,3.8,4.3,,3.8,2,3.5,Scott,Richard recommended this. Like a Mediterranean burrito,32.8340519,-117.1956122
+Rigoberto's Taco Shop,California,,,,,,,6.6,,4,4.5,4,3.5,3.5,5,1.5,3.5,4.5,3.7,Scott,Usually better. Too much enchilada sauce this time,32.8340519,-117.1956122
+Rigoberto's Taco Shop,Chile Relleno,,,,,,,6.6,,4,2,,4,,4.6,4.2,3.75,5,3.9,Sage,Orange salsa very spicy,32.8340519,-117.1956122
+Los Tacos,Fusion,,,,,,,8.5,3.9,3,4.5,4.1,3,3.7,4,4.3,4.2,5,3.9,Scott,Fresca and verde salsas are the best,32.8340519,-117.1956122
+Los Tacos,Local,,,,,,,7.9,4,3.5,4,4,3,4,4.5,4,3.8,4.8,3.8,Emily,Pastor is dry,32.8340519,-117.1956122
+Taco Villa,Chicken,,,,,,,4.99,3.5,2.5,4.5,3,2.5,3,3,2,2,4,3,Scott,Somehow way better when it was leftover,32.8340519,-117.1956122
+Lupe's Taco Shop,Hot cheetos,Linda Vista,7621 Linda Vista Rd,https://www.yelp.com/biz/lupes-taco-shop-san-diego,3.5,4.5,x,7.29,3.5,3,2,3.5,3.5,3,2.5,3.7,3.2,4.2,3.7,Scott,"Cheese is cold, but guac, salsa, and chips are good",32.8014966,-117.1571964
+Lupe's Taco Shop,Surfin California,,,,,,,7.89,3,4,5,4.5,4,4.5,3.5,3,4.5,2.5,4.25,Richard,quality ingredients,32.8014966,-117.1571964
+Lupe's Taco Shop,California,,,,,,,7.49,3.7,4,3.5,3.9,4,3.7,2,3.5,4,4,3.9,Tom,tons of french fries,32.8014966,-117.1571964
+Lupe's Taco Shop,Spicy a la Diabla,,,,,,,7.49,5,4,4,4,2,3,0,,1,2,2,Rob L,way too spicy,32.8014966,-117.1571964
+Los Tacos,Local,,,,,,,7.9,3.5,4.5,5,4,3.5,4,2.8,4,4.5,3.7,4.2,Scott,,32.8014966,-117.1571964
+Los Tacos,Local,,,,,,,7.9,2,4.2,4,4.2,3.8,4,3,3.8,4.5,5,4.2,Emily,,32.8014966,-117.1571964
+Taco Villa,Pollo asado,,,,,,,5.99,4.5,2,4,2.5,3.5,4.5,3,2,1.5,3.4,3.1,Scott,,32.8014966,-117.1571964
+Taco Villa,Al pastor,,,,,,,6.99,3.5,2.5,4.5,4,4,2,3,3,3,4,3,Ricardo ,,32.8014966,-117.1571964
+Rigoberto's Taco Shop La Jolla,California,,,,,,,6.85,3.5,3,2,3.5,3.5,4,3,3.5,3.5,4.5,3.6,Scott,,32.8014966,-117.1571964
+Rigoberto's Taco Shop La Jolla,California,,,,,,,6.85,4,5,5,4.5,4,5,4,4,5,5,4.3,Nihal,,32.8014966,-117.1571964
+Taco Villa,California,,,,,,,,4.3,3,3,3.5,4,3,1.5,3.8,4,5,4,Scott,Salsa much better this time than before,32.8014966,-117.1571964
+Cotixan,California,Clairemont,4370 Genessee Ave,https://www.yelp.com/biz/cotixan-mexican-and-seafood-san-diego,4,4,,7.19,4.5,4,2,3,3.8,3.5,2,4,4,4,3.5,Scott,,32.8229419,-117.184444
+Los Tacos,Local,,,,,,,7.9,2.5,3,4.5,4.3,4,3,3.1,3.9,4.2,3,4.1,Scott,,32.8229419,-117.184444
+Los Tacos,Local,,,,,,,7.9,3,3,3.5,4.5,4,4,4,4,4,3.5,4,Emily,,32.8229419,-117.184444
+Los Tacos,Local,,,,,,,7.9,3,5,5,5,4,5,4,4,5,4,5,Audrey L,,32.8229419,-117.184444
+Los Tacos,Local,,,,,,,7.9,3,3.5,4,4,4,4.5,3.5,4,3.5,4,4,Spencer,,32.8229419,-117.184444
+Lourdes,Carnitas,Encinitas,2113 San Elijo Ave,https://www.yelp.com/biz/lourdes-encinitas-2,4,4.7,,7.35,3.5,3.5,3,3.5,3,4.5,4.5,4,4,5,3.75,Emily,,33.0209368,-117.2821532
+Lourdes,California,,,,,,,6.35,3.5,4,3,3,3,2.5,3,3.5,2.8,5,3.1,Scott,,33.0209368,-117.2821532
+Vallarta Express,California,,,,,,,7.5,4,3,,4,4,3,5,3,4,5,4.1,Erik,,33.0209368,-117.2821532
+California burritos,California everything,,,,,,,6.5,4.5,4.5,3,3.5,4.5,3.5,4,3.5,4.3,4.3,4.1,Scott,,33.0209368,-117.2821532
+California burritos,California everything,,,,,,,6.5,4,4,3.5,4.5,4,3.5,4.5,4,4,4.5,4,Ricardo,,33.0209368,-117.2821532
+California burritos,California everything mini,,,,,,,4.75,4,4,4,4.5,4.3,4.5,4.5,4.8,4.8,5,4.5,Luis,,33.0209368,-117.2821532
+California burritos,Surf & Turf,,,,,,,6.75,4,4,4,4,3.5,3.5,3,2,3.5,3.5,3.5,Hannah,,33.0209368,-117.2821532
+California burritos,California everything,,,,,,,6.5,4,3,3,4,4,4,4,3,4,4,4,Clark,,33.0209368,-117.2821532
+California burritos,Surf & Turf,,,,,,,6.75,4,3,5,5,,,5,,4,5,4.5,Justin C,,33.0209368,-117.2821532
+Los palmitos,California,Clairemont,5145 Clairemont Mesa Blvd,https://www.yelp.com/biz/los-palmitos-taco-shop-san-diego,4,4.1,x,7.1,4,4.5,5,3.8,3.8,4,4,3.9,4.3,5,4.3,Scott,red-orange salsa has a slight fruity flavor that's really good,32.8340905,-117.1796656
+Los palmitos,Surf & Turf,,,,,,,8.25,3.5,3.5,4,4,3,3.5,4.5,3.5,3.5,5,3.6,Emily,Rice was plain. Also don't like rice in burrito,32.8340905,-117.1796656
+Taco Villa,Carnitas,,,,,,,5.99,4,2,4.5,4.5,3,3.8,4.4,2.5,3.5,3,4,Scott,,32.8340905,-117.1796656
+Taco Villa,Carnitas,,,,,,,5.99,4,4,4,4,3,4,3.5,2.5,3.5,5,3.5,Richard,,32.8340905,-117.1796656
+Lupe's Taco Shop,TGunz,,,,,,,10,3,3,4,3.2,3.5,1.8,1.8,3.5,3.7,3.5,3.9,Scott,,32.8340905,-117.1796656
+Lupe's Taco Shop,TGunz,,,,,,,10,4.2,3,4.5,3.5,3.5,2.5,2,3,3.5,4.5,3.5,Ricardo,,32.8340905,-117.1796656
+Filiberto's,Adobada,Encinitas,476 S Coast Hwy 101,https://www.yelp.com/biz/filibertos-encinitas-2,3,3.8,,6.25,4.4,4.2,4.5,4,3,5,3.8,2.5,3,5,3.7,Scott,,33.046304,-117.2941326
+Filiberto's,California,,,,,,,6.25,3,4.5,4.5,3.7,3.5,4,3.5,3,4,4.5,4,Emily,,33.046304,-117.2941326
+Don Carlos Taco Shop,California,La Jolla,737 Pearl St,https://www.yelp.com/biz/don-carlos-taco-shop-la-jolla,4,4.5,,7.75,5,3.5,4.2,3.3,3.7,4,4,2.9,3,5,3.7,Scott ,,32.8396989,-117.2752812
+Don Carlos Taco Shop,California,,,,,,,7.75,2.5,4,4,2.6,3.6,4,4,3.6,4,4,2.9,Luis,,32.8396989,-117.2752812
+Los Tacos 2,Al pastor tradicional ,Oceanside,3480 Marron Rd,https://www.yelp.com/biz/los-tacos-oceanside-2,4.5,5,,8.25,3.8,4,,4,3,3,2.5,4,3,5,3.6,Scott,,33.1792619,-117.2951199
+Rubios UCSD,Grilled fish salmon,,,,,,,8.99,4,3.5,3,3.5,3.5,4,2,4,4,4,3.4,Tom,,33.1792619,-117.2951199
+Rigoberto's Taco Shop,California,,,,,,,6.85,4,3.5,5,3.3,3,5,2,3,3.8,3.5,3.9,Scott,,33.1792619,-117.2951199
+Rigoberto's Taco Shop,California,,,,,,,6.85,4,4,5,4,4,5,3.5,2,3.5,4,4,Elynn,,33.1792619,-117.2951199
+El Dorado Mexican Food,California,,,,,,,7.4,3.3,5,4,4.2,3.5,2.9,3,4,4,4,4,Scott,,33.1792619,-117.2951199
+El Dorado Mexican Food,California,,,,,,,7.4,3.5,4.5,4,4,3.5,3,3,2.5,4,3.8,3.8,Emily,,33.1792619,-117.2951199
+Los Tacos 2,Cheese steak,,,,,,,9.95,4.2,3.5,5,3,1.5,3,2.5,3,2.2,2.5,2.8,Scott,,33.1792619,-117.2951199
+Roberto's Taco Shop Hillcrest,Asada,Hillcrest,420 Robinson Ave,https://www.yelp.com/biz/robertos-taco-shop-hillcrest-san-diego,4,4.2,,7,3.5,4,4,2,2.5,4.5,4,3,2.9,4.5,2.8,Scott,,32.7472185,-117.161355
+Roberto's Taco Shop Hillcrest,California Surf and Turf,,,,,,,9,3,3.5,4,4,4,4.5,4.5,2,3.5,4,4,Richard,,32.7472185,-117.161355
+Roberto's Taco Shop Hillcrest,California,,,,,,,7,3.5,3,3,2,2,3,2,3,2,3,2.2,Tom,,32.7472185,-117.161355
+Burros and Fries,Shrimp california,,,,,,,6.99,4,3,4,4,2.5,2.5,3,3,3,5,3,Emily,too many fries. Not great,32.7472185,-117.161355
+Burros and Fries,California,,,,,,,7.19,3.5,3.5,4.5,3.5,3.5,3,3.5,4,3.5,5,3.8,Scott,,32.7472185,-117.161355
+Taco Stand Encinitas ,California,,,,,,,7.89,4,3,,4.5,4,4.5,4.5,4.5,4.8,3.3,4.7,Scott,,32.7472185,-117.161355
+Taco Stand Encinitas,California,,,,,,,7.89,4,3,,4,4,4.5,4,4.5,4.5,5,4.5,Emily,,32.7472185,-117.161355
+Cotixan,California,,,,,,,6.9,4.3,3,3,3.5,3.5,3.5,3.5,3.8,4,5,3.7,Scott,,32.7472185,-117.161355
+Vallarta Express,Surf & Turf,,,,,,,8.55,3,3,2.5,3,3,3.5,2.8,3.5,2.8,1.5,3,Scott,,32.7472185,-117.161355
+Vallarta Express,California,,,,,,,7.8,2.5,3,2,3.5,3,3,4,3,3.8,4.5,3.5,Emily,,32.7472185,-117.161355
+Caliente Mexican Food,carne asada ,Sorrento Valley,11815 Sorrento Valley Rd,https://www.yelp.com/biz/caliente-mexican-food-san-diego,3.5,4.4,,5.56,2.5,2.5,3,2.5,3.5,4.5,4.5,3.7,3.3,4.5,3.5,Scott,,32.9161974,-117.2367235
+Caliente Mexican Food,carne asada ,,,,,,,5.56,4,4,4,4,3,4,2,4,3,3,4,Chris G,,32.9161974,-117.2367235
+Caliente Mexican Food,fried fish,,,,,,,5.56,3.5,3.5,3,,3.5,3,4,4.5,3.5,4,3.5,Xi,,32.9161974,-117.2367235
+Caliente Mexican Food,California,,,,,,,6.47,4,1,2,2,2,3,3,1,2,3,2,Erik K,,32.9161974,-117.2367235
+Burrito Factory,Steak everything ,Austin,2025 Guadalupe St,https://www.yelp.com/biz/burrito-factory-austin,4.5,4.8,,7.35,3.5,3.2,3,3.5,3.5,3,3.3,3,3.8,2,3.5,Scott,,32.7038841,-117.1454696
+Taco Villa,Carne asada,,,,,,,6.99,3,3,4.5,2,3,2.5,4,2,2,4,2,Richard,,32.7038841,-117.1454696
+Taco VIlla,California,,,,,,,6.99,4,4,,3.5,3.5,3.5,3.5,3.5,3.5,5,3.7,Scott,,32.7038841,-117.1454696
+Los Tacos 2,Local,,,,,,,8.5,3.8,4,4.5,3,4,3,2.5,3.5,3.5,3,4,Scott,,32.7038841,-117.1454696
+Los Tacos 2,Local,,,,,,,8.5,4,4,4,3.75,4,3.5,3.5,4,5,3.5,4,Emily,,32.7038841,-117.1454696
+Valentines Mexican Food,Carne asada,,,,,,,6.75,4,4,4.5,3.5,3.5,4.5,4.5,3,3.5,4,3.9,Scott,,32.7038841,-117.1454696
+Valentines Mexican Food,California,,,,,,,7.9,4,4,5,5,5,5,5,5,4,3.5,4.8,Simon,,32.7038841,-117.1454696
+Vallarta Express,California,,,,,,,8.35,4.5,3,3,4,3,4,2.5,4,4.5,4,4.1,Scott,,32.7038841,-117.1454696
+Roberto's Taco Shop Hillcrest,Golden State,,,,,,,25,4,3.8,4.4,4,3.8,4,4,4,4,5,4.2,Scott,Good. but just get a regular Cali.,32.7038841,-117.1454696
+Roberto's Taco Shop Hillcrest,California,,,,,,,7,4,4.5,5,4,4,4,3.7,3.8,4.6,4.8,4.2,Simon,,32.7038841,-117.1454696
+Kotija Jr,California,Del Mar,2668 Del Mar Heights Rd,https://www.yelp.com/biz/kotija-jr-taco-shop-del-mar,4,4.2,,6.99,4,4,5,3.5,3.8,3,2.5,3.3,4,5,3.7,Scott,,32.9497632,-117.246375
+Kotija Jr,Steak fajitas,,,,,,,7.1,3,3.5,5,4,4,4.5,4.75,3.75,4,5,4.2,Emily,,32.9497632,-117.246375
+El Rey Moro,Hashbrown,,,,,,,6.47,4,3,3,2,2.5,1.5,2.5,2.5,3,5,3.2,Scott,,32.9497632,-117.246375
+El Rey Moro,Hashbrown,,,,,,,8.94,3.5,2.5,3.5,3.5,3.5,3.5,4,3,3.5,4.5,3.8,Emily,,32.9497632,-117.246375
+Taco Villa,Carnitas,,,,,,,5.99,2,2,2.5,4,3,4,3.5,3,3,5,3.8,Scott,,32.9497632,-117.246375
+Taco Villa,Carne asada,,,,,,,6.99,3.5,4,4,4,4.5,4,3.5,4,4,4,4.3,Nuttida,,32.9497632,-117.246375
+Los Tacos,Local,,,,,,,8.5,3.5,3.5,4,4.5,4,3,4,3.5,4.5,5,4.3,Scott,,32.9497632,-117.246375
+Los Tacos,Local,,,,,,,8.5,3.5,4,4,4,4.5,4.2,4.5,4,4.5,4.8,4.5,Emily,,32.9497632,-117.246375
+Rigoberto's Taco Shop,California ,,,,,,,6.85,3.5,3,4.5,3.8,3.8,4,3.5,3.5,4,3,4.1,Scott,,32.9497632,-117.246375
+Rigoberto's Taco Shop,California ,,,,,,,6.85,3.5,3,4.5,4,4,4.5,3,4,4,3.5,4.25,Sage,,32.9497632,-117.246375
+Burrito Box,Steak with guacamole,,,,,,,11.5,3.5,2,2,4,3.5,3,4.5,3.5,4,2,3.5,Scott,Maybe a little better than chipotle. Or at least more authentic.,32.9497632,-117.246375
+Taco Stand,California ,,,,,,,7.89,4,4,3,4,4,3,4,3.5,4.3,4.5,4.2,Scott,,32.9497632,-117.246375
+Taco Stand,California ,,,,,,,7.89,5,5,5,5,5,4,4,5,5,3,4.5,Ben S,,32.9497632,-117.246375

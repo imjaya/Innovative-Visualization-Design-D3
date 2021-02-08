@@ -1,0 +1,76 @@
+#wrapper {
+  margin:20px;
+  width:px;
+}
+input {
+  width:50px;
+}
+svg {
+  position: center;
+  /* border:1px solid gray; */
+  border-radius:10px;
+  height:2800px;
+  width:2500px;
+  margin:5px;
+  
+}
+
+#linechart {
+  width:800px;
+}
+
+html {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.countrymap {
+  stroke: black;
+}
+
+
+h2, h3 {
+  text-align:center;
+  fill:white;
+}
+
+
+
+#slider-wrapper {
+  display: inline-block;
+  width: 50%;
+  margin: -3px 10px;
+}
+
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  padding: .5rem;
+  background: #FFFFFF;
+  color: #313639;
+  border: 1px solid #313639;
+  border-radius: 8px;
+  pointer-events: none;
+  font-size: 1.3rem;
+}
+div.tooltip-donut {
+  position: absolute;
+  text-align: center;
+  padding: .5rem;
+  background: #FFFFFF;
+  color: #313639;
+  border: 1px solid #313639;
+  border-radius: 8px;
+  pointer-events: none;
+  font-size: 1.3rem;
+}
+
+html { 
+  /* background:  url("/data/Burrito.jpg") no-repeat center center fixed;  */
+  /* background-image: url("/data/burrito.jpeg"); */
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+   background-color: #7760f4;  
+  /*#7760f4 */
+  background-size: cover;
+}
